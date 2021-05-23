@@ -1,0 +1,17 @@
+body {
+  background: #bbb;
+  .btn {
+    border: none;
+    background-color: teal;
+    color: #fff;
+    padding: 0.5rem 2rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+  }
+  .show {
+    color: brown;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+}
